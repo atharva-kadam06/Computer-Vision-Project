@@ -1,0 +1,5 @@
+Method,PSNR (dB),SSIM
+Gaussian noisy,20.4018,0.1597
+Gaussian filtered,31.3474,0.7064
+Salt-pepper noisy,18.9015,0.3138
+Median filtered,46.2839,0.9906
